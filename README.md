@@ -1,3 +1,3 @@
 
 ## Description
-This is the ReactJS LinkedIn Clone, perfect by Ashar.
+This is the ReactJS LinkedIn Clone by Ashar.
